@@ -7,23 +7,38 @@ body {
 
 }
 
-h1 {
-    background-color: #ffffff;
-    border-color: #cccccc;
-    margin: 0;
-    padding- 20px;
+header {
+    position: relative;
+    display:block;
+    max-width:100%;
+    height:100%;
+    margin:0 auto;
+    padding:1rem 5rem;
+    background:#ffffff;
+    columns: #777777;
+}
+header h1 {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    line-height: 45px;
+    font-size: 2rem;
+    margin: 0; 
+    display: inline;
+}
+nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    float:right;
+    display:inline;
 }
 
-.nav {
-    background-color: #ffffff;
-    overflow: hidden;
-}
-
-.nav a {
-    float: left;
-    text-decoration: none;
-    padding: 14px 16px;
-
+nav  li {
+    position:relative;
+    display:inline-block;
+    list-style-type: none;
+    padding:0 1rem;
+    color: #777777;
 }
 
 h2 {
