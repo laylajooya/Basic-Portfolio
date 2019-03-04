@@ -64,6 +64,18 @@ p {
     width: 960px;
 }
 
+#contact {
+    background-color: #ffffff;
+    border-color:#cccccc;
+    width: 960px;
+}
+
+#portfolio {
+    background-color: #ffffff;
+    border-color:#cccccc;
+    width: 960px;
+}
+
 .container {
     width: 960px;
     margin: 0 auto;
