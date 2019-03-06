@@ -117,7 +117,7 @@ input[type=submit] {
     margin: 0 auto;
     padding: 20px;
     box-sizing: border-box;
-  }
+}
 
 .box-set {
     background: #ffffff;
@@ -130,13 +130,14 @@ input[type=submit] {
 
 .box {
     height: 200px;
-    width: 200px;
+    width: 400px;
     background: #cccccc;
 }
 
 .hangman {
     grid-column-start: 1;
     grid-row-end: 1;
+    background-color: #ffffff;
 }
 
 .trivia-game {
