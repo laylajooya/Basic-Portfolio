@@ -116,3 +116,13 @@ input[type=submit] {
     padding: 20px;
     box-sizing: border-box;
   }
+
+.box-set {
+    background: #ffffff;
+}
+
+.box {
+    height: 80px;
+    width: 80px;
+    background: #cccccc;
+}
