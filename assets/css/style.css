@@ -119,10 +119,24 @@ input[type=submit] {
 
 .box-set {
     background: #ffffff;
+    position: relative;
+
 }
 
 .box {
     height: 80px;
     width: 80px;
     background: #cccccc;
+}
+
+.box-1 {
+    position: absolute;
+}
+
+.box-2 {
+
+}
+
+.box-3 {
+
 }
