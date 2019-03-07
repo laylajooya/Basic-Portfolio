@@ -17,6 +17,7 @@ header {
     background:#ffffff;
     columns: #777777;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    overflow: hidden;
 
 }
 
