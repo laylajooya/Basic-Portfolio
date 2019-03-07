@@ -16,7 +16,7 @@ header {
     padding:1rem 5rem;
     background:#ffffff;
     columns: #777777;
-    font: 'Georgia', Times, Times New Roman, serif; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
@@ -29,7 +29,9 @@ header h1 {
     font-size: 2rem;
     margin-left: 125px;
     display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 nav {
     padding-left: 0;
     margin-bottom: 0;
@@ -50,6 +52,7 @@ nav  li {
 h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif; 
+    font-size: 2rem;
     padding-top: 20px;
     padding-left: 20px;
 }
@@ -62,6 +65,7 @@ hr {
 
 p {
     padding: 20px;
+
 }
 
 #about-me {
