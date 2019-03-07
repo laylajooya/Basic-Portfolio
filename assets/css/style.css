@@ -130,13 +130,12 @@ input[type=submit] {
   /* Add padding BETWEEN each column */
   .row,
   .row > .column {
-    padding: 8px;
+    padding: 20px;
   }
   
   /* Create four equal columns that floats next to each other */
   .column {
     float: left;
-    width: 25%;
     position: relative;
   }
   
@@ -151,14 +150,16 @@ input[type=submit] {
   .content {
     background-color: white;
     padding: 10px;
+    float: left;
   }
 
   .text-block {
     position: absolute;
-    bottom: 20px;
-    right: 20px;
-    background-color: black;
-    color: white;
+    bottom: 40px;
+    right: 40px;
+    left: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
   }
