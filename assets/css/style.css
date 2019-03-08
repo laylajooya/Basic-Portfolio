@@ -4,7 +4,6 @@ body {
     background-image: url(../images/geometry2.png);
     color: #777777;
     font-family: 'Arial', 'Helvetic Neue', Helvetica, sans-serif;
-
 }
 
 header {
@@ -18,7 +17,6 @@ header {
     columns: #777777;
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow: hidden;
-
 }
 
 header h1 {
@@ -27,7 +25,7 @@ header h1 {
     padding: 20px;
     padding-top: 10px;
     font-size: 2rem;
-    margin-left: 125px;
+    margin-left: 140px;
     display: inline;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -53,7 +51,7 @@ h2 {
 }
 
 hr {
-    border: 1px solid;
+    border: .5px solid;
     color: #777777;
     width: 95%;
 }
@@ -69,6 +67,7 @@ p {
     border-color:#cccccc;
     width: 960px;
     margin: 0 auto;
+    margin-top: 20px;
     padding: 20px;
     padding-top: 0;
 }
@@ -76,7 +75,7 @@ p {
 .aboutpic {
     float: left;
     clear: right;
-    margin: 10px;
+    margin: 20px;
 }
   
 
@@ -85,6 +84,7 @@ p {
     border-color:#cccccc;
     width: 960px;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 #portfolio {
@@ -92,6 +92,7 @@ p {
     border-color:#cccccc;
     width: 960px;
     margin: 0 auto;
+    margin-top: 20px;
 }
 
 .container {
